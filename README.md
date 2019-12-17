@@ -1,5 +1,7 @@
+This package was specially made for Bryan
+
 ```
-const Converter = require("./src/Converter");
+const Converter = require("simple-json-to-csv");
 
 const file = new Converter([
   { name: "Kervin", age: "26" },
