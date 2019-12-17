@@ -1,0 +1,28 @@
+{
+  "name": "simple-json-to-csv",
+  "version": "1.0.0",
+  "description": "Simple JSON to CSV writter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kervin5/simple-json-to-csv.git"
+  },
+  "keywords": [
+    "json",
+    "csv",
+    "converter",
+    "parse"
+  ],
+  "author": "kervin5",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kervin5/simple-json-to-csv/issues"
+  },
+  "homepage": "https://github.com/kervin5/simple-json-to-csv#readme",
+  "dependencies": {
+    "jsonexport": "^2.4.1"
+  }
+}
