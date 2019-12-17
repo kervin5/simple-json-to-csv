@@ -1,4 +1,4 @@
-This package was specially made for Bryan
+This package was especially made for Bryan
 
 ```
 const Converter = require("simple-json-to-csv");
